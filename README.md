@@ -5,7 +5,7 @@ A simple retro-like space invaders game made with Python! Credits to ClearCode f
 
 # How to Download and Run ⬇
 1. Make sure you have Python installed and Pygame too. If you have Python, go to the Command Line and type "pip install pygame". <br />
-2. Click the "Code" button and press "Download ZIP", or you can clone the repo if you want. <br />
+2. Download this Repository (Clone it or download it as a ZIP file). <br />
 3. Extract the ZIP file and find the "Main.py" file which is located in the "Code" folder. <br />
 4. Run this file and enjoy! <br />
 
