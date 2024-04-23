@@ -1,4 +1,3 @@
-# Main File to Run the Game From
 # Tutorial: https://youtu.be/o-6pADy5Mdg
 
 import pygame, sys
